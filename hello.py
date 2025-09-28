@@ -10,6 +10,8 @@ def say_hello():
 @app.route('/about')
 def about_page():
 	return '<p>This is the about page</p>'
+	<a href="https://flask.palletsprojects.com/">Flask</a>
+        <a href="https://www.python.org">Python</a>
 
 @app.route('/contact')
 def contact_page():
