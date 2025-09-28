@@ -13,4 +13,4 @@ def about_page():
 
 @app.route('/contact')
 def contact_page():
-	return '<p>My Email: C23343691@mytudublin.ie'
+	return '<p>My Email: c23343691@mytudublin.ie'
